@@ -1,2 +1,6 @@
-username = input('tape your name')
-print(username)
+def user():
+    name = input('tape your name: ')
+    id_number = int(input("tape your id: "))
+    print(f"welcome {name}{id_number}")
+
+user()
