@@ -1,2 +1,2 @@
 print("welcome to my account")
-print("have a goog one!ls")
+print("have a good one!")
