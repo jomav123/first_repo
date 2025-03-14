@@ -1,2 +1,2 @@
 print("welcome to my account")
-print("have a good one!")
+print("oh have a good one!")
